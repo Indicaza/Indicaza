@@ -1,7 +1,5 @@
 Hello Humans,
 
-My name is Zach and I like to make stuff with the Unreal Engine.  
-
 email = zachreitmeier@yahoo.com
 
 <!---
