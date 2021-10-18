@@ -1,6 +1,6 @@
 Hello Humans,
 
-email = zachreitmeier@yahoo.com
+email = indicazas@gmail.com
 
 <!---
 Indicaza/Indicaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
