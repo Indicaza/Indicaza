@@ -1,4 +1,4 @@
-<img src="../../Pictures/vector3.png" width="100%" height="200px"/>
+<img src="../../Pictures/vector3.png" width="100%"/>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indicaza&theme=darcula&hide_border=true" width="75%" />
