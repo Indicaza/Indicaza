@@ -3,14 +3,9 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Indicaza&theme=darcula&hide_border=true&include_all_commits=false&count_private=true" width="50%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Indicaza&theme=darcula&hide_border=true" width="50%" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indicaza&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="50%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Indicaza&theme=darcula&hide_border=true" width="80%" />
 </div>
-
 
 
 <br />
@@ -93,7 +88,10 @@
 <br />
 <br />
 
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Indicaza&theme=darcula&hide_border=true&include_all_commits=false&count_private=true" width="80%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indicaza&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="80%"/>
+</div>
 
 
 
