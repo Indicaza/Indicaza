@@ -1,7 +1,17 @@
 ![ghilbiRender](https://user-images.githubusercontent.com/81054931/172896766-c0bc4f0f-d41d-44da-b25b-3435255ecc85.svg)
 
 
-![ghilbiRenderTest](https://user-images.githubusercontent.com/81054931/172897091-bdc769ef-5246-4357-81e8-137f97e906dc.svg)
+
+
+
+<div align="center" style="position: absolute">
+  <img src= "https://user-images.githubusercontent.com/81054931/172897091-bdc769ef-5246-4357-81e8-137f97e906dc.svg" width="80%" height="150px" style="border-radius:10px"/>
+</div>
+
+
+
+
+
 
 
 
