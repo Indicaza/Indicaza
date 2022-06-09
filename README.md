@@ -14,3 +14,4 @@
 Indicaza/Indicaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![morningPanorama](https://user-images.githubusercontent.com/81054931/172891423-49d1a2ce-9278-4e11-bcf5-10fb5a92976f.svg)
