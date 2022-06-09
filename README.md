@@ -6,7 +6,7 @@
 
 ![matrixRain](<iframe src="https://giphy.com/embed/sULKEgDMX8LcI" width="480" height="225" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sci-fi-matrix-cyberpunk-sULKEgDMX8LcI">via GIPHY</a></p>)
 
-![matrixRain]("https://giphy.com/embed/sULKEgDMX8LcI/giphy.gif")
+![matrixRain]("https://giphy.com/embed/sULKEgDMX8LcI/.gif")
 
 <!---
 Indicaza/Indicaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
