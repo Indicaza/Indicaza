@@ -4,9 +4,7 @@
 
 
 
-<div align="center" style="position: absolute">
-  <img src= "https://user-images.githubusercontent.com/81054931/172897091-bdc769ef-5246-4357-81e8-137f97e906dc.svg" width="80%" height="150px" style="border-radius:10px"/>
-</div>
+<img src= "https://user-images.githubusercontent.com/81054931/172897091-bdc769ef-5246-4357-81e8-137f97e906dc.svg" width="100%" height="150px" style="border-radius:10px"/>
 
 
 
@@ -15,7 +13,6 @@
 
 
 
-### I'm aware that my Github is underwhelming...  Cut me some slack, I made the mistake of going to school for comp/sci.
 <div style="width:100%;height:0;padding-bottom:47%;position:relative;"><iframe src="https://giphy.com/embed/sULKEgDMX8LcI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/sci-fi-matrix-cyberpunk-sULKEgDMX8LcI">via GIPHY</a></p>
 
 
