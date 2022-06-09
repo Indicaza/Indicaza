@@ -1,122 +1,48 @@
 ![ghilbiRender](https://user-images.githubusercontent.com/81054931/172896766-c0bc4f0f-d41d-44da-b25b-3435255ecc85.svg)
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<div style="margin: 50px 0 0 0; padding: 10px 0 50px; background-image: radial-gradient(#2D333B, #22272D, #22272D); border-radius: 10px;">
+<h1 style="text-align: center; color: white; text-shadow: 0px -7px 4px black; font-size: 40px;">Welcome to my Github!</h1>
+</div>
 
 
 
-<img src= "https://user-images.githubusercontent.com/81054931/172897091-bdc769ef-5246-4357-81e8-137f97e906dc.svg" width="100%" height="150px" style="border-radius:10px"/>
+<br/>
 
-
-# Frontend
-
----
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />
-
-
+<h2 style="text-align: center; color: white;">My name's Zach, and I'm into Full-Stack.</h2>
 
 ---
 
-# Backend
+<div style="background-image: radial-gradient(#2D333B, #22272D, #22272D);; margin: 25px; padding: 50px;">
 
----
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-
----
-
-# Databases
-
----
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<div style="margin: 0">
+    <h3 style="text-align: center; color: white;">My Frontend Tools:</h3>
+    <div align="center">
+        <img style="margin: 2px; padding: 10px; background-color: white; border: 2px solid black; border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="20%" alt="HTML5"/>
+        <img style="margin: 2px; padding: 10px; background-color: white; border: 2px solid black; border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20%"/>
+        <img style="margin: 2px; padding: 10px; background-color: white; border: 2px solid black; border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="20%"/>
+    </div>
+    <div align="center">
+        <img style="margin: 2px; padding: 10px; background-color: white; border: 2px solid black; border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" width="20%"/>
+        <img style="margin: 2px; padding: 10px; background-color: white; border: 2px solid black; border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="20%"/>
+        <img style="margin: 2px; padding: 10px; background-color: white; border: 2px solid black; border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="20%"/>
+    </div>
+</div>
 
 
+<div style="margin: 0">
+    <h3 style="text-align: center; color: white;">My Backend Tools:</h3>
+    <div align="center">
+        <img style="margin: 2px; padding: 10px; background-color: white; border: 2px solid black; border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="20%" />
+        <img style="margin: 2px; padding: 10px; background-color: white; border: 2px solid black; border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="20%" />
+        <img style="margin: 2px; padding: 10px; background-color: white; border: 2px solid black; border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="20%" />
+    </div>
+    <div align="center">
+        <img style="margin: 2px; padding: 10px; background-color: white; border: 2px solid black; border-radius: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="20%"/>
+        <img style="margin: 2px; padding: 10px; background-color: white; border: 2px solid black; border-radius: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="20%"/>
+        <img style="margin: 2px; padding: 10px; background-color: white; border: 2px solid black; border-radius: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="20%"/>
+    </div>
+</div>
 
----
+</div>
 
-# CI/CD
-
----
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-
-
----
-
-
-# Tools
-
----
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-
-
----
-
-# Working on
-
----
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-
-
-
-
-
-
-# Social Media
-
----
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
-
----
-
-
-
-
-<div style="width:100%;height:0;padding-bottom:47%;position:relative;"><iframe src="https://giphy.com/embed/sULKEgDMX8LcI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/sci-fi-matrix-cyberpunk-sULKEgDMX8LcI">via GIPHY</a></p>
-
-
-![matrixRain](<iframe src="https://giphy.com/embed/sULKEgDMX8LcI" width="480" height="225" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sci-fi-matrix-cyberpunk-sULKEgDMX8LcI">via GIPHY</a></p>)
-
-![matrixRain]("https://giphy.com/embed/sULKEgDMX8LcI/.gif")
-
-![asdf](https://giphy.com/gifs/sci-fi-matrix-cyberpunk-sULKEgDMX8LcI/giphy.gif)
-<!---
-Indicaza/Indicaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![morningPanorama](https://user-images.githubusercontent.com/81054931/172891423-49d1a2ce-9278-4e11-bcf5-10fb5a92976f.svg)
