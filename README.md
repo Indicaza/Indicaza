@@ -1,4 +1,7 @@
-# Super Badass Readme Coming Soon!
+![ghilbiRender](https://user-images.githubusercontent.com/81054931/172896766-c0bc4f0f-d41d-44da-b25b-3435255ecc85.svg)
+
+
+
 ![giphy](https://user-images.githubusercontent.com/81054931/172845960-bbe6b42c-d671-413a-b63d-89d70d569acc.gif)
 
 ### I'm aware that my Github is underwhelming...  Cut me some slack, I made the mistake of going to school for comp/sci.
