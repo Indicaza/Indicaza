@@ -7,10 +7,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indicaza&theme=darcula&hide_border=true" width="75%" />
 </div>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/81054931/172970730-36f8e9d2-ed47-49ce-891b-2ba7d6ada72d.gif" width="40%" height="200px"/>
-<img src="https://user-images.githubusercontent.com/81054931/172971345-6abbc06d-ef87-4b59-8fe2-9db780177f45.gif" width="40%" height="200px"/>
+<img src="https://user-images.githubusercontent.com/81054931/172973125-9fe06650-198d-4eae-a609-3d48e3e6420b.gif" />
 </div>
-
 
 
 <br />
@@ -19,7 +17,7 @@
 
 ---
 
-<h2 align="center">💻 My Tech Stack 💻</h2>
+<h2 align="center">💻 My Web Stack 💻</h2>
 <img width="1547" alt="cropedBanner2" src="https://user-images.githubusercontent.com/81054931/172957862-f05a0107-fbde-4272-a37a-dc0657ef45eb.png">
 
 ---
@@ -45,14 +43,17 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indicaza&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="75%"/>
 </div>
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/81054931/172974791-f98b491b-d28c-4985-9f9f-a4d87a93fd58.gif" width="40%" height="200px"/>
+<img src="https://user-images.githubusercontent.com/81054931/172971345-6abbc06d-ef87-4b59-8fe2-9db780177f45.gif" width="40%" height="200px"/>
+</div>
 <br />
 <br />
 <br />
 
 ---
 
-<h2 align="center">Tech I'm Learning</h2>
+<h2 align="center"> 💻 Tech I'm Learning 💻 </h2>
 <img width="1547" alt="cropedBanner3" src="https://user-images.githubusercontent.com/81054931/172957874-f42254f1-00a2-48e2-aa40-305637517998.png">
 
 
