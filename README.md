@@ -1,7 +1,10 @@
 
 ---
 
-<h1 align="center">My name's Zach, and I'm a Full-Stack Developer.</h1>
+<h1 align="center">Welcome to My GitHub!</h1>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/81054931/172970730-36f8e9d2-ed47-49ce-891b-2ba7d6ada72d.gif" />
+</div>
 <img width="1548" alt="cropedBanner" src="https://user-images.githubusercontent.com/81054931/172957544-d929da23-15de-414a-a1aa-1f6ca1464d1a.png">
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indicaza&theme=darcula&hide_border=true" width="75%" />
