@@ -7,9 +7,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indicaza&theme=darcula&hide_border=true" width="75%" />
 </div>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/81054931/172973125-9fe06650-198d-4eae-a609-3d48e3e6420b.gif" />
+<img src="https://user-images.githubusercontent.com/81054931/172974791-f98b491b-d28c-4985-9f9f-a4d87a93fd58.gif" width="40%" height="300px"/>
+<img src="https://user-images.githubusercontent.com/81054931/172971345-6abbc06d-ef87-4b59-8fe2-9db780177f45.gif" width="40%" height="300px"/>
 </div>
-
 
 <br />
 <br />
@@ -43,10 +43,12 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indicaza&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="75%"/>
 </div>
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/81054931/172974791-f98b491b-d28c-4985-9f9f-a4d87a93fd58.gif" width="40%" height="200px"/>
-<img src="https://user-images.githubusercontent.com/81054931/172971345-6abbc06d-ef87-4b59-8fe2-9db780177f45.gif" width="40%" height="200px"/>
+<img src="https://user-images.githubusercontent.com/81054931/172976565-6e3376f3-43e0-46f4-8121-125dd550eb87.gif" width="40%" height="300px"/>
+<img src="https://user-images.githubusercontent.com/81054931/172977198-671f24b8-abd9-4e4b-a57e-92bedcba16eb.gif" width="40%" height="300px"/>
 </div>
+
 <br />
 <br />
 <br />
