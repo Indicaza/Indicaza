@@ -71,7 +71,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Indicaza&theme=darcula&hide_border=true&include_all_commits=false&count_private=true" width="75%" />
 </div>
 
+<br />
 
+---
+
+<div align="right">
 <a href="https://www.linkedin.com/in/zach-reitmeier-b52922162/" target="_blank">
 <img src="https://user-images.githubusercontent.com/81054931/172967114-46640f49-58c6-4e9a-886d-a3e7b8db8599.png" width="5%"/>
 </a>
@@ -79,4 +83,8 @@
 <a href="https://twitter.com/ReitmeierZach" target="_blank">
 <img src="https://user-images.githubusercontent.com/81054931/172967029-6f4d8991-9d4f-45c6-bdb9-b8a973e455ff.png" width="5%"/>
 </a>
+</div>  
+  
+  
+  
 
