@@ -75,7 +75,7 @@
 
 ---
 
-<h3>Thanks for Stopping By</h3>
+<h3 align="center">Thanks for Stopping By</h3>
   
 ---
 
@@ -90,6 +90,9 @@
 </a>
 </div>  
   
+---
+
+<br />
   
   
 
