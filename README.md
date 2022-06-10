@@ -7,8 +7,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indicaza&theme=darcula&hide_border=true" width="75%" />
 </div>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/81054931/172970730-36f8e9d2-ed47-49ce-891b-2ba7d6ada72d.gif" />
+<img src="https://user-images.githubusercontent.com/81054931/172970730-36f8e9d2-ed47-49ce-891b-2ba7d6ada72d.gif" width="40%" height="200px"/>
+<img src="https://user-images.githubusercontent.com/81054931/172971345-6abbc06d-ef87-4b59-8fe2-9db780177f45.gif" width="40%" height="200px"/>
 </div>
+
 
 
 <br />
