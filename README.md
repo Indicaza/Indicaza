@@ -75,10 +75,8 @@
 
 ---
 
-<h3 align="center">Thanks for Stopping By</h3>
+<h3 align="center">Lets Grow Together</h3>
   
----
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/zach-reitmeier-b52922162/" target="_blank">
@@ -89,10 +87,3 @@
 <img src="https://user-images.githubusercontent.com/81054931/172967029-6f4d8991-9d4f-45c6-bdb9-b8a973e455ff.png" width="5%"/>
 </a>
 </div>  
-  
----
-
-<br />
-  
-  
-
