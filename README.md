@@ -4,27 +4,16 @@
 <h1 align="center">My name's Zach, and I'm a Full-Stack Developer.</h1>
 
 
-
-
-
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indicaza&theme=darcula&hide_border=true" width="75%" />
 </div>
 
 
-
-
-
 <br />
-
 
 <img width="1547" alt="cropedBanner2" src="https://user-images.githubusercontent.com/81054931/172957862-f05a0107-fbde-4272-a37a-dc0657ef45eb.png">
 
-
-
----
-
-<h2 align="center">💻 My Stack 💻</h2>
+<h3 align="center">💻 My Tech Stack 💻</h3>
 
 ---
 
@@ -43,18 +32,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="10%"/>
 </div>
 
-<br />
-
 ---
+
+<br />
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indicaza&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="75%"/>
 </div>
   
 <br />
-<br />
 
----
 <img width="1547" alt="cropedBanner3" src="https://user-images.githubusercontent.com/81054931/172957874-f42254f1-00a2-48e2-aa40-305637517998.png">
 <h3 align="center">Tech I'm Learning</h3>
 
