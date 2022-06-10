@@ -1,5 +1,6 @@
-
+<a href="https://twitter.com/ReitmeierZach" target="_blank">
 <img width="1548" alt="cropedBanner" src="https://user-images.githubusercontent.com/81054931/172957544-d929da23-15de-414a-a1aa-1f6ca1464d1a.png">
+</a>
 
 <h1 align="center">My name's Zach, and I'm a Full-Stack Developer.</h1>
 
