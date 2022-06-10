@@ -1,17 +1,11 @@
-
+<br />
 <h1 align="center">My name's Zach, and I'm a Full-Stack Developer.</h1>
-
 <img width="1548" alt="cropedBanner" src="https://user-images.githubusercontent.com/81054931/172957544-d929da23-15de-414a-a1aa-1f6ca1464d1a.png">
-
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indicaza&theme=darcula&hide_border=true" width="75%" />
 </div>
-
-
 <br />
-
 <img width="1547" alt="cropedBanner2" src="https://user-images.githubusercontent.com/81054931/172957862-f05a0107-fbde-4272-a37a-dc0657ef45eb.png">
-<br />
 <br />
 <h3 align="center">💻 My Tech Stack 💻</h3>
 
@@ -35,13 +29,10 @@
 ---
 
 <br />
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indicaza&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="75%"/>
 </div>
-  
 <br />
-
 <img width="1547" alt="cropedBanner3" src="https://user-images.githubusercontent.com/81054931/172957874-f42254f1-00a2-48e2-aa40-305637517998.png">
 <h3 align="center">Tech I'm Learning</h3>
 
@@ -64,23 +55,18 @@
 
 <br />
 <br />
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Indicaza&theme=darcula&hide_border=true&include_all_commits=false&count_private=true" width="75%" />
 </div>
-
 <br />
 
 ---
 
 <h3 align="center">Lets Grow Together</h3>
-  
 <div align="center">
-
 <a href="https://www.linkedin.com/in/zach-reitmeier-b52922162/" target="_blank">
 <img src="https://user-images.githubusercontent.com/81054931/172967114-46640f49-58c6-4e9a-886d-a3e7b8db8599.png" width="5%"/>
 </a>
-
 <a href="https://twitter.com/ReitmeierZach" target="_blank">
 <img src="https://user-images.githubusercontent.com/81054931/172967029-6f4d8991-9d4f-45c6-bdb9-b8a973e455ff.png" width="5%"/>
 </a>
