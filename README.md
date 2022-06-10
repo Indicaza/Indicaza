@@ -1,10 +1,7 @@
 
-
-
-<img width="1548" alt="cropedBanner" src="https://user-images.githubusercontent.com/81054931/172957544-d929da23-15de-414a-a1aa-1f6ca1464d1a.png">
-
 <h1 align="center">My name's Zach, and I'm a Full-Stack Developer.</h1>
 
+<img width="1548" alt="cropedBanner" src="https://user-images.githubusercontent.com/81054931/172957544-d929da23-15de-414a-a1aa-1f6ca1464d1a.png">
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indicaza&theme=darcula&hide_border=true" width="75%" />
@@ -14,7 +11,8 @@
 <br />
 
 <img width="1547" alt="cropedBanner2" src="https://user-images.githubusercontent.com/81054931/172957862-f05a0107-fbde-4272-a37a-dc0657ef45eb.png">
-
+<br />
+<br />
 <h3 align="center">💻 My Tech Stack 💻</h3>
 
 ---
