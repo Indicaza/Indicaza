@@ -17,7 +17,7 @@
 
 ---
 
-<h2 align="center">💻 My Web Stack 💻</h2>
+<h2 align="center">💻 My Tech Stack 💻</h2>
 <img width="1547" alt="cropedBanner2" src="https://user-images.githubusercontent.com/81054931/172957862-f05a0107-fbde-4272-a37a-dc0657ef45eb.png">
 
 ---
@@ -25,15 +25,15 @@
 <br />
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="10%"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="10%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="10%"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="10%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="10%"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="10%"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="10%"/>
+
 </div>
 <br />
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="10%"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="10%" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="10%"/>
 </div>
 
@@ -45,8 +45,8 @@
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/81054931/172976565-6e3376f3-43e0-46f4-8121-125dd550eb87.gif" width="40%" height="300px"/>
-<img src="https://user-images.githubusercontent.com/81054931/172977198-671f24b8-abd9-4e4b-a57e-92bedcba16eb.gif" width="40%" height="300px"/>
+<img src="https://user-images.githubusercontent.com/81054931/172976565-6e3376f3-43e0-46f4-8121-125dd550eb87.gif" width="40%" height="350px"/>
+<img src="https://user-images.githubusercontent.com/81054931/172977198-671f24b8-abd9-4e4b-a57e-92bedcba16eb.gif" width="40%" height="350px"/>
 </div>
 
 <br />
