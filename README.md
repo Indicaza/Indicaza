@@ -45,9 +45,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indicaza&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="75%"/>
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/81054931/172976565-6e3376f3-43e0-46f4-8121-125dd550eb87.gif" width="50%" height="50%"/>
-<img src="https://user-images.githubusercontent.com/81054931/172977198-671f24b8-abd9-4e4b-a57e-92bedcba16eb.gif" width="50%" height="50%"/>
+<div align="center" width="100%">
+<img src="https://user-images.githubusercontent.com/81054931/172976565-6e3376f3-43e0-46f4-8121-125dd550eb87.gif" width="50%" height="500px" style="float: left;"/>
+<img src="https://user-images.githubusercontent.com/81054931/172977198-671f24b8-abd9-4e4b-a57e-92bedcba16eb.gif" width="50%" height="500px" style="float: right;"/>
 </div>
 
 <br />
