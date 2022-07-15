@@ -36,7 +36,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="10%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="10%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="10%"/>
-
 </div>
 
 ---
@@ -47,8 +46,8 @@
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/81054931/172976565-6e3376f3-43e0-46f4-8121-125dd550eb87.gif" width="40%" height="350px"/>
-<img src="https://user-images.githubusercontent.com/81054931/172977198-671f24b8-abd9-4e4b-a57e-92bedcba16eb.gif" width="40%" height="350px"/>
+<img src="https://user-images.githubusercontent.com/81054931/172976565-6e3376f3-43e0-46f4-8121-125dd550eb87.gif" width="50%" height="50%"/>
+<img src="https://user-images.githubusercontent.com/81054931/172977198-671f24b8-abd9-4e4b-a57e-92bedcba16eb.gif" width="50%" height="50%"/>
 </div>
 
 <br />
@@ -59,7 +58,6 @@
 
 <h2 align="center"> 💻 Tech I'm Learning 💻 </h2>
 <img width="1547" alt="cropedBanner3" src="https://user-images.githubusercontent.com/81054931/172957874-f42254f1-00a2-48e2-aa40-305637517998.png">
-
 
 ---
 
