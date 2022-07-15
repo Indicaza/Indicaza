@@ -46,7 +46,7 @@
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/81054931/172976565-6e3376f3-43e0-46f4-8121-125dd550eb87.gif" width="60%" />
+<img src="https://user-images.githubusercontent.com/81054931/172976565-6e3376f3-43e0-46f4-8121-125dd550eb87.gif" width="66%" />
 </div>
 <br />
 <br />
@@ -78,7 +78,7 @@
 <br />
 <br />
 <div align="center">
-<img src="https://user-images.githubusercontent.com/81054931/172973125-9fe06650-198d-4eae-a609-3d48e3e6420b.gif" />
+<img src="https://user-images.githubusercontent.com/81054931/172973125-9fe06650-198d-4eae-a609-3d48e3e6420b.gif" width="80%"/>
 </div>
 <br />
 <br />
