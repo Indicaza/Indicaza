@@ -2,12 +2,12 @@
 
 <h1 align="center">Welcome to My GitHub!</h1>
 <img width="1548" alt="cropedBanner" src="https://user-images.githubusercontent.com/81054931/172957544-d929da23-15de-414a-a1aa-1f6ca1464d1a.png">
+
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indicaza&theme=darcula&hide_border=true" width="75%" />
 </div>
+
 <div align="center">
-
-
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=22xtvcgpggpkwbp6avrp3a4mq&cover_image=true&theme=default&bar_color=f3c981" />
 </div>
 
@@ -45,11 +45,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indicaza&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="75%"/>
 </div>
 
-<div align="center" width="100%">
-<img src="https://user-images.githubusercontent.com/81054931/172976565-6e3376f3-43e0-46f4-8121-125dd550eb87.gif" width="50%" height="500px" style="float: left;"/>
-<img src="https://user-images.githubusercontent.com/81054931/172977198-671f24b8-abd9-4e4b-a57e-92bedcba16eb.gif" width="50%" height="500px" style="float: right;"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/81054931/172976565-6e3376f3-43e0-46f4-8121-125dd550eb87.gif" width="60%" />
 </div>
-
 <br />
 <br />
 <br />
