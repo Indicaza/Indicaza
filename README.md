@@ -6,8 +6,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indicaza&theme=darcula&hide_border=true" width="75%" />
 </div>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/81054931/172974791-f98b491b-d28c-4985-9f9f-a4d87a93fd58.gif" width="40%" height="225px"/>
-<img src="https://user-images.githubusercontent.com/81054931/172971345-6abbc06d-ef87-4b59-8fe2-9db780177f45.gif" width="40%" height="225px"/>
+
+
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=22xtvcgpggpkwbp6avrp3a4mq&cover_image=true&theme=default&bar_color=f3c981" />
 </div>
 
