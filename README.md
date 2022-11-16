@@ -3,9 +3,9 @@
 <h1 align="center">Welcome to My GitHub!</h1>
 <img width="1548" alt="cropedBanner" src="https://user-images.githubusercontent.com/81054931/172957544-d929da23-15de-414a-a1aa-1f6ca1464d1a.png">
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indicaza&theme=darcula&hide_border=true" width="75%" />
-</div>
+</div> -->
 
 <div align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=22xtvcgpggpkwbp6avrp3a4mq&cover_image=true&theme=default&bar_color=f3c981" />
