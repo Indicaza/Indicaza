@@ -12,36 +12,18 @@
 ---
 
 <div align="center">
-  <img
-    src="https://spotify-github-profile.vercel.app/api/view?uid=22xtvcgpggpkwbp6avrp3a4mq&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=f3c981&bar_color_cover=true"
-  />
-</div>
-
----
-
-<br />
-<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indicaza&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="75%"/>
 </div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/81054931/172976565-6e3376f3-43e0-46f4-8121-125dd550eb87.gif" width="66%" />
 </div>
-<br />
-<br />
-<br />
 
 ---
 
-<br />
-<br />
 <div align="center">
 <img src="https://user-images.githubusercontent.com/81054931/172973125-9fe06650-198d-4eae-a609-3d48e3e6420b.gif" width="76%"/>
 </div>
-<br />
-<br />
-
-
 
 ---
 
