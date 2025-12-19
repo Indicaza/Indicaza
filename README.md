@@ -1,6 +1,5 @@
 ---
 
-<h1 align="center">Welcome to My GitHub!</h1>
 <img width="1548" alt="cropedBanner" src="https://user-images.githubusercontent.com/81054931/172957544-d929da23-15de-414a-a1aa-1f6ca1464d1a.png">
 
 <div align="center">
@@ -10,13 +9,13 @@
   />
 </div>
 
+---
 
 <div align="center">
   <img
     src="https://spotify-github-profile.vercel.app/api/view?uid=22xtvcgpggpkwbp6avrp3a4mq&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=f3c981&bar_color_cover=true"
   />
 </div>
-
 
 ---
 
