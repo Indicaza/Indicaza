@@ -21,29 +21,6 @@
 
 ---
 
-<h2 align="center">💻 My Tech Stack 💻</h2>
-<img width="1547" alt="cropedBanner2" src="https://user-images.githubusercontent.com/81054931/172957862-f05a0107-fbde-4272-a37a-dc0657ef45eb.png">
-
----
-
-<br />
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="10%"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="10%"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="10%"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="10%"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="10%"/>          
-</div>
-
-<br />
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="10%"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="10%"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="10%"/>    
-</div>
-
----
-
 <br />
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indicaza&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="75%"/>
