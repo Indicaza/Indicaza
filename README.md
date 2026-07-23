@@ -1,35 +1,99 @@
----
+<!-- README.md | Whole file -->
 
-<img width="1548" alt="cropedBanner" src="https://user-images.githubusercontent.com/81054931/172957544-d929da23-15de-414a-a1aa-1f6ca1464d1a.png">
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,32:082f49,68:0284c7,100:67e8f9&height=180&section=header"
+  width="100%"
+  alt="Blue and cyan waves"
+/>
 
-<div align="center">
+<h2 align="center">Full Stack Engineer · Applied AI Systems</h2>
+
+<p align="center">
+  <strong>I build complete products across web, desktop, AI, and games.</strong>
+</p>
+
+<br />
+
+Most of my work starts as a messy workflow, an overloaded spreadsheet, or an ambitious idea that nobody has quite turned into a product yet. I like owning the whole path from interface and architecture to APIs, data, automation, and AI.
+
+Right now I am building **Archivist**, a local-first AI workspace designed to organize large libraries, preserve long-running context, and help people work across files, projects, and conversations without losing the thread.
+
+I previously built **Metamorph**, an AI-assisted database migration system that helped compress a migration expected to take more than three months into roughly one month. Outside business software, I am building **Shard**, a multiplayer RPG driven by procedural systems and reusable world architecture.
+
+<br />
+
+<h3 align="center">Application Systems</h3>
+
+<p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Indicaza&theme=darcula&hide_border=true"
-    width="75%"
+    src="https://skillicons.dev/icons?i=ts,js,python,cpp,php,react,vue,nodejs,laravel,qt&theme=dark"
+    alt="TypeScript, JavaScript, Python, C++, PHP, React, Vue, Node.js, Laravel, and Qt"
   />
-</div>
+</p>
 
----
+<h3 align="center">Data and Infrastructure</h3>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indicaza&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="75%"/>
-</div>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=sqlite,postgres,aws,azure,docker&theme=dark"
+    alt="SQLite, PostgreSQL, AWS, Azure, and Docker"
+  />
+</p>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/81054931/172976565-6e3376f3-43e0-46f4-8121-125dd550eb87.gif" width="66%" />
-</div>
+<h3 align="center">Game Development and 3D</h3>
 
----
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img
+        src="https://cdn.simpleicons.org/unrealengine/0891b2/ffffff"
+        width="48"
+        height="48"
+        alt="Unreal Engine"
+      />
+      <br />
+      <sub><strong>Unreal Engine</strong></sub>
+    </td>
+    <td align="center" width="130">
+      <img
+        src="https://cdn.simpleicons.org/godotengine/0891b2/ffffff"
+        width="48"
+        height="48"
+        alt="Godot"
+      />
+      <br />
+      <sub><strong>Godot</strong></sub>
+    </td>
+    <td align="center" width="130">
+      <img
+        src="https://cdn.simpleicons.org/autodeskmaya/0891b2/ffffff"
+        width="48"
+        height="48"
+        alt="Autodesk Maya"
+      />
+      <br />
+      <sub><strong>Maya</strong></sub>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/81054931/172973125-9fe06650-198d-4eae-a609-3d48e3e6420b.gif" width="76%"/>
-</div>
+<br />
 
----
+<p align="center">
+  <em>Build the system. Remove the friction. Keep the human in control.</em>
+</p>
 
-<h3 align="center">Lets Grow Together</h3>
-<div align="center">
-<a href="https://www.linkedin.com/in/zach-reitmeier-b52922162/" target="_blank">
-<img src="https://user-images.githubusercontent.com/81054931/172967114-46640f49-58c6-4e9a-886d-a3e7b8db8599.png" width="5%"/>
-</a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/zach-reitmeier-b52922162/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0891B2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Connect on LinkedIn"
+    />
+  </a>
+</p>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:67e8f9,32:0284c7,68:082f49,100:020617&height=110&section=footer"
+  width="100%"
+  alt=""
+/>
