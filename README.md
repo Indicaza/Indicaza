@@ -1,20 +1,12 @@
-<!-- README.md | Whole file -->
-
 <img
   src="https://capsule-render.vercel.app/api?type=waving&height=95&section=header&color=0:020617,30:075985,65:06b6d4,100:67e8f9"
   width="100%"
   alt="Blue and cyan waves"
 />
 
-I am a full stack engineer, game developer, and product builder who likes following difficult problems across the entire stack.
-
-Most of my work begins with a messy workflow, an ambitious idea, or an interface that conventional patterns cannot quite carry. I turn those problems into software that feels fast, understandable, secure, and natural to use.
-
-I am especially interested in work that compounds my effectiveness. Reusable architecture, durable context, automation, and better tools should make every project after them easier to build.
-
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=165&color=0:020617,30:075985,65:06b6d4,100:67e8f9"
+    src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:020617,30:075985,65:06b6d4,100:67e8f9"
     width="100%"
     alt="Animated cyan form"
   />
@@ -22,10 +14,16 @@ I am especially interested in work that compounds my effectiveness. Reusable arc
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&duration=3100&pause=1100&color=67E8F9&center=true&vCenter=true&repeat=true&width=900&height=55&lines=I+build+tools+that+make+the+next+tool+easier.;Cross-stack.+Cross-platform.+Cross-industry.;Durable+context.+Clear+systems.+Compounding+leverage."
-    alt="Durable context, clear systems, compounding leverage"
+    src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=21&duration=6500&pause=2800&color=67E8F9&center=true&vCenter=true&repeat=true&width=900&height=65&lines=I+build+tools+that+make+the+next+tool+easier.;Durable+context.+Clear+systems.+Compounding+leverage.;Build+once.+Learn+from+it.+Reuse+what+works.;The+stack+should+serve+the+product.;Make+complexity+understandable.;Remove+the+friction.+Leave+room+for+surprise."
+    alt="Engineering principles"
   />
 </p>
+
+I am a full stack engineer, game developer, and product builder who likes following difficult problems across the entire stack.
+
+Most of my work begins with a messy workflow, an ambitious idea, or an interface that conventional patterns cannot quite carry. I turn those problems into software that feels fast, understandable, secure, and natural to use.
+
+I am especially interested in work that compounds my effectiveness. Reusable architecture, durable context, automation, and better tools should make every project after them easier to build.
 
 <h2 align="center">Favorite technologies</h2>
 
