@@ -25,6 +25,14 @@ Most of my work begins with a messy workflow, an ambitious idea, or an interface
 
 I am especially interested in work that compounds my effectiveness. Reusable architecture, durable context, automation, and better tools should make every project after them easier to build.
 
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Indicaza&theme=github_dark"
+    width="100%"
+    alt="GitHub contribution overview"
+  />
+</p>
+
 <h2 align="center">Favorite technologies</h2>
 
 <h4 align="center">Application development</h4>
