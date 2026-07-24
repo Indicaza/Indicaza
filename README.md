@@ -1,37 +1,44 @@
 <!-- README.md | Whole file -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,32:082f49,68:0284c7,100:67e8f9&height=180&section=header"
+  src="https://capsule-render.vercel.app/api?type=waving&height=95&section=header&color=0:020617,30:075985,65:06b6d4,100:67e8f9"
   width="100%"
   alt="Blue and cyan waves"
 />
 
-<h2 align="center">Full Stack Engineer · Applied AI Systems</h2>
+I am a full stack engineer, game developer, and product builder who likes following difficult problems across the entire stack.
 
-<p align="center">
-  <strong>I build complete products across web, desktop, AI, and games.</strong>
-</p>
+Most of my work begins with a messy workflow, an ambitious idea, or an interface that conventional patterns cannot quite carry. I turn those problems into software that feels fast, understandable, secure, and natural to use.
 
-<br />
-
-Most of my work starts as a messy workflow, an overloaded spreadsheet, or an ambitious idea that nobody has quite turned into a product yet. I like owning the whole path from interface and architecture to APIs, data, automation, and AI.
-
-Right now I am building **Archivist**, a local-first AI workspace designed to organize large libraries, preserve long-running context, and help people work across files, projects, and conversations without losing the thread.
-
-I previously built **Metamorph**, an AI-assisted database migration system that helped compress a migration expected to take more than three months into roughly one month. Outside business software, I am building **Shard**, a multiplayer RPG driven by procedural systems and reusable world architecture.
-
-<br />
-
-<h3 align="center">Application Systems</h3>
+I am especially interested in work that compounds my effectiveness. Reusable architecture, durable context, automation, and better tools should make every project after them easier to build.
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=ts,js,python,cpp,php,react,vue,nodejs,laravel,qt&theme=dark"
-    alt="TypeScript, JavaScript, Python, C++, PHP, React, Vue, Node.js, Laravel, and Qt"
+    src="https://capsule-render.vercel.app/api?type=venom&height=165&color=0:020617,30:075985,65:06b6d4,100:67e8f9"
+    width="100%"
+    alt="Animated cyan form"
   />
 </p>
 
-<h3 align="center">Data and Infrastructure</h3>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&duration=3100&pause=1100&color=67E8F9&center=true&vCenter=true&repeat=true&width=900&height=55&lines=I+build+tools+that+make+the+next+tool+easier.;Cross-stack.+Cross-platform.+Cross-industry.;Durable+context.+Clear+systems.+Compounding+leverage."
+    alt="Durable context, clear systems, compounding leverage"
+  />
+</p>
+
+<h2 align="center">Favorite technologies</h2>
+
+<h4 align="center">Application development</h4>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=ts,js,python,cpp,php,react,vue,nodejs,laravel&theme=dark"
+    alt="TypeScript, JavaScript, Python, C++, PHP, React, Vue, Node.js, and Laravel"
+  />
+</p>
+
+<h4 align="center">Data and infrastructure</h4>
 
 <p align="center">
   <img
@@ -40,47 +47,66 @@ I previously built **Metamorph**, an AI-assisted database migration system that 
   />
 </p>
 
-<h3 align="center">Game Development and 3D</h3>
+<h4 align="center">Games and 3D</h4>
 
-<table align="center">
-  <tr>
-    <td align="center" width="130">
-      <img
-        src="https://cdn.simpleicons.org/unrealengine/0891b2/ffffff"
-        width="48"
-        height="48"
-        alt="Unreal Engine"
-      />
-      <br />
-      <sub><strong>Unreal Engine</strong></sub>
-    </td>
-    <td align="center" width="130">
-      <img
-        src="https://cdn.simpleicons.org/godotengine/0891b2/ffffff"
-        width="48"
-        height="48"
-        alt="Godot"
-      />
-      <br />
-      <sub><strong>Godot</strong></sub>
-    </td>
-    <td align="center" width="130">
-      <img
-        src="https://cdn.simpleicons.org/autodeskmaya/0891b2/ffffff"
-        width="48"
-        height="48"
-        alt="Autodesk Maya"
-      />
-      <br />
-      <sub><strong>Maya</strong></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Unreal_Engine-18181B?style=for-the-badge&logo=unrealengine&logoColor=white"
+    alt="Unreal Engine"
+  />
+  <img
+    src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"
+    alt="Godot"
+  />
+  <img
+    src="https://img.shields.io/badge/Autodesk_Maya-37A5CC?style=for-the-badge&logo=autodesk&logoColor=white"
+    alt="Autodesk Maya"
+  />
+</p>
+
+<h4 align="center">Currently exploring</h4>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Qt_%2F_QML-41CD52?style=for-the-badge&logo=qt&logoColor=white"
+    alt="Qt and QML"
+  />
+</p>
+
+I moved into native UI development after experiments with infinite chat, dense animation, and resizable, reconfigurable workspaces began pushing beyond the headroom I could comfortably get from web rendering.
+
+<h2 align="center">What I am building</h2>
+
+- **Archivist**
+  - A local-first AI workbench that gives projects durable memory.
+  - It helps me build other software, manage and version the files on my computer, preserve decisions, inspect context, and review AI actions before they change anything important.
+  - Its core handles libraries, memory, context, permissions, approvals, provenance, usage, and cost.
+  - Plugins add specialized workflows without bloating the foundation.
+    - **Coding Studio** adds repository-aware engineering workflows.
+    - **Research and Synthesis** preserves sources, claims, uncertainty, and evolving conclusions.
+    - **Image Lab, Asset Forge, and Motion Lab** carry the same project memory into visual, 3D, and animation work.
+
+- **DineIn**
+  - A smart kitchen assistant built around the food people already have.
+  - It connects pantry inventory with AI recipe suggestions, grocery planning, expiration awareness, and low-friction pantry upkeep.
+  - The goal is to help people waste less food, spend less money, and enjoy cooking without turning their kitchen into another administrative system.
+
+- **Metamorph**
+  - An AI-assisted database migration system designed to understand legacy schemas, map transformations, and automate repetitive migration work.
+  - It helped reduce a migration expected to take more than three months to roughly one month.
+
+<h2 align="center">How I build</h2>
+
+I prefer fractal architecture, where each domain is understandable on its own and familiar patterns repeat throughout the system. Complexity should be contained rather than scattered.
+
+Performance and security belong in the design from the beginning. Interfaces are part of the architecture, not decoration placed on top of it.
+
+I am comfortable crossing stacks, platforms, industries, and creative disciplines when the problem demands it. Technology should serve the product rather than become its identity.
 
 <br />
 
 <p align="center">
-  <em>Build the system. Remove the friction. Keep the human in control.</em>
+  <strong>Build the system. Remove the friction. Leave room for surprise.</strong>
 </p>
 
 <p align="center">
@@ -93,7 +119,7 @@ I previously built **Metamorph**, an AI-assisted database migration system that 
 </p>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:67e8f9,32:0284c7,68:082f49,100:020617&height=110&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:67e8f9,35:06b6d4,70:075985,100:020617"
   width="100%"
-  alt=""
+  alt="Blue and cyan waves"
 />
