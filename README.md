@@ -79,29 +79,9 @@ I am especially interested in work that compounds my effectiveness. Reusable arc
   />
 </p>
 
-I moved into native UI development after experiments with infinite chat, dense animation, and resizable, reconfigurable workspaces began pushing beyond the headroom I could comfortably get from web rendering.
+<br />
 
-<h2 align="center">What I am building</h2>
-
-- **Archivist**
-  - A local-first AI workbench that gives projects durable memory.
-  - It helps me build other software, manage and version the files on my computer, preserve decisions, inspect context, and review AI actions before they change anything important.
-  - Its core handles libraries, memory, context, permissions, approvals, provenance, usage, and cost.
-  - Plugins add specialized workflows without bloating the foundation.
-    - **Coding Studio** adds repository-aware engineering workflows.
-    - **Research and Synthesis** preserves sources, claims, uncertainty, and evolving conclusions.
-    - **Image Lab, Asset Forge, and Motion Lab** carry the same project memory into visual, 3D, and animation work.
-
-- **DineIn**
-  - A smart kitchen assistant built around the food people already have.
-  - It connects pantry inventory with AI recipe suggestions, grocery planning, expiration awareness, and low-friction pantry upkeep.
-  - The goal is to help people waste less food, spend less money, and enjoy cooking without turning their kitchen into another administrative system.
-
-- **Metamorph**
-  - An AI-assisted database migration system designed to understand legacy schemas, map transformations, and automate repetitive migration work.
-  - It helped reduce a migration expected to take more than three months to roughly one month.
-
-<h2 align="center">How I build</h2>
+<h2 align="left">How I build</h2>
 
 I prefer fractal architecture, where each domain is understandable on its own and familiar patterns repeat throughout the system. Complexity should be contained rather than scattered.
 
